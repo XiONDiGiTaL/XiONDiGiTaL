@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**XiONDiGiTaL/XiONDiGiTaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# XiØN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎙️ Musician &nbsp;|&nbsp; 🎮 Gamer &nbsp;|&nbsp; 💻 Developer**
+
+</div>
+
+---
+
+<table width="100%" border="1" cellpadding="14" cellspacing="0">
+<tr>
+<td>
+
+### ABOUT ME
+
+I make music and occasionally dabble in software development on the side. Former ICQA Data Analyst at Amazon.
+Making things. Breaking things, and learning along the way.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### LINKS
+
+<table width="100%" border="0" cellpadding="12" cellspacing="8">
+<tr>
+<td width="50%" align="center" bgcolor="#191D24">
+
+**🌐 [My Site](https://xiondigital.net)**
+
+</td>
+<td width="50%" align="center" bgcolor="#191D24">
+
+**📸 [Insta](https://instagram.com/xiondigital)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" bgcolor="#191D24">
+
+**🎵 [Spotify](https://open.spotify.com/artist/4YkGZAtMD5tFAq859q7Bit)**
+
+</td>
+<td width="50%" align="center" bgcolor="#191D24">
+
+**▶️ [YT](http://youtube.com/channel/UCDEV4yZfB8lYsCBjGQJofVQ?sub_confirmation=1)**
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*XiØN © 2026*
+
+</div>
