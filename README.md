@@ -29,7 +29,7 @@ Making things. Breaking things, and learning along the way.
 <tr>
 <td width="50%" align="center" bgcolor="#191D24">
 
-**🌐 [My Site](https://xiondigital.net)**
+**🌐 [Site](https://xiondigital.net)**
 
 </td>
 <td width="50%" align="center" bgcolor="#191D24">
