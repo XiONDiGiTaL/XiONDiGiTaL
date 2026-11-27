@@ -58,6 +58,6 @@ Making things. Breaking things, and learning along the way.
 
 <div align="center">
 
-*XiØN © 2026*
+
 
 </div>
