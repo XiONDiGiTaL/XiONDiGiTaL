@@ -41,7 +41,7 @@ Making things. Breaking things, and learning along the way.
 <tr>
 <td width="50%" align="center" bgcolor="#191D24">
 
-**🎵 [Spotify](https://open.spotify.com/artist/4YkGZAtMD5tFAq859q7Bit)**
+**🎵 [Music](https://open.spotify.com/artist/4YkGZAtMD5tFAq859q7Bit)**
 
 </td>
 <td width="50%" align="center" bgcolor="#191D24">
